@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shvetsmaksym
 - 👀 I’m interested in data science, algorithms and data structures.
-- 🌱 I’m currently learning statistical analysis and machine learning using with Python and R.
+- 🌱 I’m currently learning statistical analysis and machine learning with Python and R.
 
 
 <!---
