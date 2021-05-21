@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maksym Shvets
 - 👀 I’m interested in data science and algorithms.
-- 🌱 I’m currently learning Python and R.
+- 🌱 I’m currently learning Python, R and VBA.
 
 
 <!---
