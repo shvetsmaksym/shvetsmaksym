@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Maksym Shvets
-- 👀 I’m interested in data science and algorithms.
-- 🌱 I’m currently learning Python, R and VBA.
+- 👋 Hi, and welcome to my GitHub profile:) My name is Maksym Shvets.
+- 👀 I’m a second year Data Science student in University of Lodz. I'm currently working as a Machine Learning Intern in Comarch S.A.
+- 🌱 My interests are algorithms and their time complexity, Deep Learning (esp. NLP) and stock market.
 
 
 <!---
