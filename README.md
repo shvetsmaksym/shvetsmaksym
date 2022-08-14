@@ -1,7 +1,6 @@
 - 👋 Hi, and welcome to my GitHub profile:)
-- 👀 I’m a third year Data Science student.
 - 👀 I'm currently working as a Junior ML Engineer.
-- 🌱 I'm interested in building Machine Learning algorithms for classification and regression problems on different datasets.
+- 🌱 I'm interested in building Machine Learning algorithms for classification and regression problems.
 - 🌱 In my projects I use Python and R with their frameworks.
 
 <!---
