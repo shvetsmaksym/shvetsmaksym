@@ -1,7 +1,7 @@
 - 👋 Hi, and welcome to my GitHub profile:)
-- 👀 I'm currently working as a Junior ML Engineer.
-- 🌱 I'm interested in building Machine Learning algorithms for classification and regression problems.
-- 🌱 In my projects I use Python and R with their frameworks.
+- 👀 I'm currently working as Machine Learning Engineer.
+- 🌱 I'm interested in ML-related topics, Deep Learning, NLP and Computer Vision.
+- 🌱 In my projects I use mostly Python with their frameworks (numpy, pandas, matplotlib, seaborn, sklearn, tensorflow) and sometimes R. 
 
 <!---
 
